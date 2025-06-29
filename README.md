@@ -101,8 +101,8 @@ Result visualized to detect shift in patterns over time.
 ## 📈 Visual Examples
 
 <p float="left">
-  <img src="output/forecast_murder.png" width="45%" />
-  <img src="output/forecast_crime_against_women.png" width="45%" />
+  <img src="output/forecast_murder.jpeg" width="45%" />
+  <img src="output/forecast_crime_against_women.jpeg" width="45%" />
 </p>
 
 ---
