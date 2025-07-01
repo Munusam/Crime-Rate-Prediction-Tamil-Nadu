@@ -17,25 +17,7 @@ A full-stack data science project to analyze, visualize, and forecast crime tren
 
 ---
 
-## 📁 Project Structure
-crime-data-science-tamilnadu/
-│
-├── data/ # Raw data (2014–2022)
-│ └── TN_Crime_Data_2014_to_2022.xlsx
-├── notebooks/ # Jupyter Notebooks
-│ └── crime_analysis.ipynb
-├── output/ # All cleaned & generated files
-│ ├── cleaned_data.csv
-│ ├── full_crime_forecast_2023_2026.xlsx
-│ ├── forecast_murder.png # Forecast visuals
-│ └── ...
-├── models/
-│ └── crime_prediction_model.pkl
-├── README.md
-└── requirements.txt
 
-
----
 
 ## 🧰 Tools & Technologies
 
